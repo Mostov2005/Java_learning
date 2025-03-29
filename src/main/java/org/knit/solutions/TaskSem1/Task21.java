@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Predicate;
 
 import org.knit.TaskDescription;
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 
 /**
  * Задача 21: Фильтрация элементов

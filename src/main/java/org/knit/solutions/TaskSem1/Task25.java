@@ -2,7 +2,7 @@ package org.knit.solutions.TaskSem1;
 
 import java.util.Scanner;
 
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 import org.knit.solutions.ClassesSem1.lab11.Task25.*;
 
 import org.knit.TaskDescription;

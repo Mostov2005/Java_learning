@@ -2,7 +2,7 @@ package org.knit.solutions.TaskSem2;
 
 import org.knit.TaskDescription;
 import org.knit.solutions.ClassesSem2.lab2.task4.TrafficLight;
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 
 /**
  * Задача 2.8: Перекресток: светофор и машины 🚦🚗

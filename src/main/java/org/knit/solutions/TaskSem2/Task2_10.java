@@ -7,7 +7,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 import org.knit.TaskDescription;
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 
 /**
  * Задача 10: Гонка бегунов с использованием CyclicBarrier 🏃‍♂️🏃‍♀️

@@ -1,7 +1,7 @@
 package org.knit.solutions.TaskSem2;
 
 
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 import org.knit.solutions.ClassesSem2.lab4.task2.Caretaker;
 import org.knit.solutions.ClassesSem2.lab4.task2.TextEditor;
 

@@ -1,6 +1,6 @@
 package org.knit.solutions.TaskSem1;
 
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 import org.knit.solutions.ClassesSem1.lab2.Task3.Calculator;
 
 import java.util.Scanner;

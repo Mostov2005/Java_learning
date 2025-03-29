@@ -3,7 +3,7 @@ package org.knit.solutions.TaskSem2;
 
 import org.knit.TaskDescription;
 import org.knit.solutions.ClassesSem2.lab2.task3.RailwayCrossing;
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 
 /**
  * Задача 2.6: Железнодорожный переезд 🚆🚗

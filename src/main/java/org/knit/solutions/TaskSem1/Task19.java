@@ -1,7 +1,7 @@
 package org.knit.solutions.TaskSem1;
 
 import org.knit.TaskDescription;
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 
 /**
  * Задача 19: Универсальный метод поиска максимального элемента

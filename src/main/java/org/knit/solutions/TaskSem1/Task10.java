@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 import org.knit.TaskDescription;
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 
 /**
  * Задача №10: Консольная игра "Виселица"

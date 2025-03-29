@@ -2,7 +2,7 @@ package org.knit.solutions.TaskSem2;
 
 import org.knit.TaskDescription;
 import org.knit.solutions.ClassesSem2.lab2.task6.Workshop;
-import org.knit.solutions.ClassesSem2.lab4.task1.Solution;
+import org.knit.solutions.Solution;
 
 /**
  * Задача 2.9: Конвейер сборки деталей 🏭🔩
